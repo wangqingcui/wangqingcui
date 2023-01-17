@@ -14,8 +14,9 @@
 <div align="center" font-size=20px>小卡片</div>
 <div display="flex"> 
 <p align="center">
-   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=wangqingcui&show_icons=true&theme=tokyonight" />
-   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=wangqingcui&theme=tokyonight" />
+   <img width="32%" src="https://github-readme-stats.vercel.app/api?username=wangqingcui&show_icons=true&theme=tokyonight" />
+   <img width="33%" src="https://github-readme-streak-stats.herokuapp.com/?user=wangqingcui&theme=tokyonight" />
+   <img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?user=wangqingcui&theme=tokyonight" /> 
 </p>
 </div>
 
