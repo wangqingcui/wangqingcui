@@ -14,9 +14,9 @@
 <div align="center" font-size=20px>小卡片</div>
 <div display="flex"> 
 <p align="center">
-   <img width="32%" src="https://github-readme-stats.vercel.app/api?username=wangqingcui&show_icons=true&theme=tokyonight" />
-   <img width="32%" src="https://github-readme-streak-stats.herokuapp.com/?user=wangqingcui&theme=tokyonight" />
-   <img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wangqingcui&layout=compact&theme=tokyonight&hide_title=true&hide_border=true" /> 
+   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=wangqingcui&show_icons=true&theme=tokyonight" />
+  
+   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wangqingcui&layout=compact&theme=tokyonight" /> 
 </p>
 </div>
 
@@ -35,6 +35,6 @@ GitHub 使用语言统计
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wangqingcui&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=tokyonight" /> </div>
 
 
-
+ <img width="32%" src="https://github-readme-streak-stats.herokuapp.com/?user=wangqingcui&theme=tokyonight" />
 
 
