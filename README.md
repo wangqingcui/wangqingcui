@@ -2,7 +2,7 @@
 
 ## 我是王清脆 🦸
 这是一个自我介绍。。。
-<h3 align="left"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);精诚所至金石为开!&center=true&size=27"> </h3>
+
 
 ## 不算作品的作品 🧙
 <a href="#" target="_blank">占位1</a> |
@@ -17,7 +17,7 @@
 <div align="center" font-size=20px>小卡片</div>
 <div display="flex"> 
 <p align="center">
-   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=wangqingcui&show_icons=true&theme=tokyonight" />
+   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=wangqingcui&show_icons=true&theme=tokyonight&locale=cn" />
   
    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wangqingcui&layout=compact&theme=tokyonight" /> 
 </p>
