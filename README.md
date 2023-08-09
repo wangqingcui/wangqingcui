@@ -43,4 +43,6 @@ GitHub 使用语言统计
 
  <img width="32%" src="https://github-readme-streak-stats.herokuapp.com/?user=wangqingcui&theme=tokyonight" />
 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
